@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ravi 
+- 👀 I’m interested in software developement
+- 🌱 I’m currently learning full stack python
